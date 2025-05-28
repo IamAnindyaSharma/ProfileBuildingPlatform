@@ -1,0 +1,104 @@
+Skill,Category,Count,Level
+Python,Technical,,Advanced
+Java,Technical,,Advanced
+C++,Technical,,Advanced
+SQL,Technical,,Advanced
+HTML,Technical,,Advanced
+CSS,Technical,,Advanced
+JavaScript,Technical,,Advanced
+React,Technical,,Advanced
+Node.js,Technical,,Advanced
+Django,Technical,,Advanced
+Flask,Technical,,Advanced
+Kubernetes,Technical,,Advanced
+Docker,Technical,,Advanced
+Git,Technical,,Advanced
+Linux,Technical,,Advanced
+AWS,Technical,,Advanced
+Azure,Technical,,Advanced
+GCP,Technical,,Advanced
+REST API,Technical,,Advanced
+TensorFlow,Technical,,Advanced
+PyTorch,Technical,,Advanced
+Machine Learning,Technical,,Advanced
+Data Science,Technical,,Advanced
+Data Analysis,Technical,,Advanced
+Pandas,Technical,,Advanced
+NumPy,Technical,,Advanced
+Matplotlib,Technical,,Advanced
+Power BI,Technical,,Advanced
+Tableau,Technical,,Advanced
+Excel,Technical,,Advanced
+VBA,Technical,,Advanced
+Spark,Technical,,Advanced
+Hadoop,Technical,,Advanced
+NoSQL,Technical,,Advanced
+MongoDB,Technical,,Advanced
+PostgreSQL,Technical,,Advanced
+Firebase,Technical,,Advanced
+Jenkins,Technical,,Advanced
+CI/CD,Technical,,Advanced
+Cloud Computing,Technical,,Advanced
+Leadership,Behavioral,,Advanced
+Teamwork,Behavioral,,Advanced
+Time Management,Behavioral,,Advanced
+Communication,Behavioral,,Advanced
+Public Speaking,Behavioral,,Advanced
+Problem Solving,Behavioral,,Advanced
+Decision Making,Behavioral,,Advanced
+Adaptability,Behavioral,,Advanced
+Critical Thinking,Behavioral,,Advanced
+Creativity,Behavioral,,Advanced
+Attention to Detail,Behavioral,,Advanced
+Conflict Resolution,Behavioral,,Advanced
+Empathy,Behavioral,,Advanced
+Negotiation,Behavioral,,Advanced
+Project Management,Behavioral,,Advanced
+Hardworking,Physical,,Advanced
+Hustler,Physical,,Advanced
+Early Riser,Physical,,Advanced
+Fitness,Physical,,Advanced
+Consistency,Physical,,Advanced
+Goal Oriented,Physical,,Advanced
+Discipline,Physical,,Advanced
+Endurance,Physical,,Advanced
+Punctuality,Physical,,Advanced
+Resilience,Physical,,Advanced
+Customer Service,Soft Skills / Misc,,Advanced
+Sales,Soft Skills / Misc,,Advanced
+Marketing,Soft Skills / Misc,,Advanced
+SEO,Soft Skills / Misc,,Advanced
+Content Writing,Soft Skills / Misc,,Advanced
+Copywriting,Soft Skills / Misc,,Advanced
+Blogging,Soft Skills / Misc,,Advanced
+Social Media Management,Soft Skills / Misc,,Advanced
+Email Marketing,Soft Skills / Misc,,Advanced
+Cold Calling,Soft Skills / Misc,,Advanced
+CRM Tools,Soft Skills / Misc,,Advanced
+Design Thinking,Soft Skills / Misc,,Advanced
+UX Design,Soft Skills / Misc,,Advanced
+UI Design,Soft Skills / Misc,,Advanced
+Prototyping,Soft Skills / Misc,,Advanced
+Figma,Soft Skills / Misc,,Advanced
+Canva,Soft Skills / Misc,,Advanced
+Agile,Soft Skills / Misc,,Advanced
+Scrum,Soft Skills / Misc,,Advanced
+Product Management,Soft Skills / Misc,,Advanced
+Storytelling,Soft Skills / Misc,,Advanced
+Business Analysis,Soft Skills / Misc,,Advanced
+Strategic Thinking,Soft Skills / Misc,,Advanced
+Budgeting,Soft Skills / Misc,,Advanced
+Forecasting,Soft Skills / Misc,,Advanced
+Stakeholder Management,Soft Skills / Misc,,Advanced
+Event Planning,Soft Skills / Misc,,Advanced
+Research,Soft Skills / Misc,,Advanced
+Documentation,Soft Skills / Misc,,Advanced
+Presentation,Soft Skills / Misc,,Advanced
+Mentoring,Soft Skills / Misc,,Advanced
+Training,Soft Skills / Misc,,Advanced
+Workshop Facilitation,Soft Skills / Misc,,Advanced
+Remote Collaboration,Soft Skills / Misc,,Advanced
+Virtual Meeting Management,Soft Skills / Misc,,Advanced
+Multitasking,Soft Skills / Misc,,Advanced
+Self-Motivation,Soft Skills / Misc,,Advanced
+python,,1.0,Beginner
